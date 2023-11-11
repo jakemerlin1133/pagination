@@ -302,9 +302,7 @@
 
 
         <ul class="listPage">
-            <li class="active">1</li>
-            <li>2</li>
-            <li>3</li>
+
         </ul>
 
 
