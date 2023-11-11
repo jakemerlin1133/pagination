@@ -23,7 +23,7 @@ function listPage(){
 
     if(thisPage != 1){
         let prev = document.createElement('li');
-        prev.innerText = "PREV";
+        prev.innerText = "<<";
         prev.setAttribute('onclick', "changePAge(" + thisPage - 1 + ")");
         document.querySelector('.listPage').appendChild(prev);
 }
@@ -40,7 +40,7 @@ function listPage(){
 
     if(thisPage != count){
         let next = document.createElement('li');
-        next.innerText = "NEXT";
+        next.innerText = ">>";
         next.setAttribute('onclick', "changePAge(" + thisPage + 1 + ")");
         document.querySelector('.listPage').appendChild(next);
 
