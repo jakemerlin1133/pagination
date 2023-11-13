@@ -161,7 +161,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 9
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -179,7 +179,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 10
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -197,7 +197,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 11
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -215,7 +215,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 12
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -233,7 +233,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 13
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -251,7 +251,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 14
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -269,7 +269,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 15
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -287,7 +287,7 @@
                 </div>
                 <div class="content">
                     <div class="title">
-                        House name 8
+                        House name 16
                     </div>
                     <div class="des">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, alias.
@@ -307,8 +307,8 @@
 
 
     </div>
-
-    <script src="index.js"></script>
+    <script src="own.js"></script>
+    <!-- <script src="index.js"></script> -->
 </body>
 
 </html>
