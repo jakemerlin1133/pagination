@@ -1,5 +1,5 @@
 let page = 1;
-let limit = 3;
+let limit = 1;
 let items = document.querySelectorAll(".list .item");
 
 function loadCount() {
@@ -22,9 +22,7 @@ function listPage() {
     
     let visiblePages = 5;
     let startPage = Math.max(1, page - Math.floor(visiblePages / 2));
-    console.log(startPage);
     let endPage = Math.min(startPage + visiblePages - 1, countPage);
-    console.log(endPage);
 
     let backToStart = document.createElement("li");
     backToStart.innerHTML = "<<";
