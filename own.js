@@ -1,5 +1,5 @@
 let page = 1;
-let limit = 1;
+let limit = 3;
 let items = document.querySelectorAll(".list .item");
 
 function loadCount() {
