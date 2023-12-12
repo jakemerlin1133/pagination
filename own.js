@@ -1,4 +1,5 @@
 let page = 1;
+console.log(page);
 let limit = 1;
 let items = document.querySelectorAll(".list .item");
 
@@ -75,6 +76,7 @@ function listPage() {
 
 function changePage(i) {
     page = i;
+    console.log(page);
     loadCount();
 }
 
